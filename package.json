@@ -1,0 +1,25 @@
+{
+  "name": "sos2526-14-sanbox",
+  "version": "1.0.0",
+  "description": "...",
+  "homepage": "https://github.com/gti-sos/SOS2526-14-SanBox#readme",
+  "bugs": {
+    "url": "https://github.com/gti-sos/SOS2526-14-SanBox/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gti-sos/SOS2526-14-SanBox.git"
+  },
+  "license": "ISC",
+  "author": "JEREMIAS PL",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "express": "^5.2.1"
+  }
+}
